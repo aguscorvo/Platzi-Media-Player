@@ -6,13 +6,14 @@ Proyecto del curso profesional de JavaScript de Platzi 💚.
 
 ```npm
 npm install -D parcel-bundler
+npm install @aguscorvo/platzimediaplayer
 ```
 
 ## Run
 
 ```bash
-npm run
+npm start
 ```
 
-In Chrome:
-`http://localhost:[portNumber]/index.html`
+- In Chrome:
+  `http://localhost:[portNumber]/index.html`
